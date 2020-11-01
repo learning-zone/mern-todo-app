@@ -1,4 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://admin:root@cluster0.4ihnp.mongodb.net/mern_shopping",
-    "jwtSecret": "Dvg9jz3PG6EqxKJw4jmzEdAe4ZC7LpWS"
-}
